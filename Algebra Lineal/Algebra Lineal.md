@@ -37,7 +37,6 @@ Esta discusión desarrolla y define los siguientes conceptos:
 ---
 
 ### Transformaciones Lineales y Matrices
-- [[Matrices]]
 - [[Transformaciones Lineales]]
 
 ---
