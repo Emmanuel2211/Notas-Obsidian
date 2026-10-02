@@ -38,9 +38,6 @@ El *análisis combinatorio* juega un papel importante en el juego de la probabil
 - [[Variable Aleatoria Continua]]
 
 **Profesor:** Daniel Cervantes Filoteo
-**Contacto (Ayudantes)**
-leonardo.gq04@ciencias.unam.mx
-sbastian.galindo@ciencias.unam.mx
 
 -----
 
@@ -75,11 +72,6 @@ You can simulate and see empirically who is right.
 
 
 ![[Pasted image 20260408193641.png]]
-
-[[Variables Aleatorias]]
-
-
-
 
 
 ---
